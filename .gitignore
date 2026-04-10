@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+backend/.venv/
+backend/app.db
+frontend/node_modules/
+frontend/dist/
+storage/references/
+storage/students/
+storage/exports/
+storage/visual_feedback/
+
